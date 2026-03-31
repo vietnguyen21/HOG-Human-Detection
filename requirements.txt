@@ -1,0 +1,6 @@
+numpy 
+opencv-python 
+matplotlib==3.10.8 
+scikit-learn==1.6.1
+scikit-image 
+joblib
